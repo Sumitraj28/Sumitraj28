@@ -53,10 +53,11 @@
   <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Infrastructure
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,docker,kubernetes" />
 </p>
+
 
 ### 🧰 Tools & Workflow
 <p align="left">
