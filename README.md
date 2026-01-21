@@ -40,13 +40,27 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,aws,gcp&theme=light" />
+### 💻 Core Engineering
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=canva,git,github&theme=light" />
+### ☁️ Cloud & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp" />
 </p>
+
+### 🎨 UI / UX & Design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=canva" />
+</p>
+
+### 🧰 Tools & Workflow
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
 
 ---
 
