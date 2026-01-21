@@ -1,4 +1,6 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ======================================================
+     PREMIUM GITHUB PROFILE README — SUMIT RAJ
+====================================================== -->
 
 <h1 align="center">Hi, I'm Sumit Raj 👋</h1>
 
@@ -7,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+clean+and+scalable+solutions;Python+%7C+Cloud+%7C+UI+Focused+Development;Learning+Today%2C+Leading+Tomorrow&font=Fira%20Code&center=true&width=750&height=45&color=000000&vCenter=true&pause=1000" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+clean+and+scalable+solutions;Python+%7C+Cloud+%7C+UI+Focused+Development;Learning+Today%2C+Leading+Tomorrow&font=Fira%20Code&center=true&width=780&height=45&color=000000&vCenter=true&pause=1000" />
 </p>
 
 <p align="center">
@@ -24,19 +26,15 @@
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
-
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech CSE (3rd Year)** at **Lovely Professional University**
-- 🧠 Strong foundation in **Python, Web Development, and Cloud**
+- 🎓 **B.Tech CSE (3rd Year)** — Lovely Professional University  
+- 🧠 Strong fundamentals in **Python, Web Development & Cloud**
 - ☁️ Hands-on with **AWS & Google Cloud**
-- 🎨 UI-conscious developer — I care about **clarity, structure, and user experience**
-- 🚀 Always learning, always improving
+- 🎨 UI-aware developer focused on **clarity, structure & usability**
+- 🚀 Growth-driven learner building real-world skills
 
 ---
-
-<!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
 
@@ -52,64 +50,84 @@
 
 ### 🎨 UI / UX & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=canva" />
+  <img src="https://skillicons.dev/icons?i=figma,canva" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🧰 Tools & Workflow
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
----
+## 🧠 Engineering Strengths
 
-<!-- ===================== PROJECTS ===================== -->
+- Clean, readable, and maintainable code  
+- Strong problem-solving fundamentals  
+- UI-conscious development mindset  
+- Cloud-first approach to modern applications  
+- Continuous improvement & self-learning
+
+---
 
 ## 📌 Featured Projects
 
-> Clean code. Practical use-cases. Scalable thinking.
+> Practical implementations focused on learning, usability, and scalability.
 
-🔹 **Project 1**  
-- Tech: HTML • CSS • JavaScript  
-- Focus: UI clarity & logic  
-- Repo: _Add link_
+🔹 **Web Development Projects**  
+- HTML • CSS • JavaScript  
+- Clean UI & structured logic  
 
-🔹 **Project 2**  
-- Tech: Python • Django  
-- Focus: Backend fundamentals  
-- Repo: _Add link_
+🔹 **Backend Projects**  
+- Python • Django  
+- Core backend concepts & workflows  
 
-🔹 **Project 3**  
-- Tech: Cloud / Python  
-- Focus: Learning-based implementation  
-- Repo: _Add link_
+🔹 **Cloud & Learning Projects**  
+- AWS / Google Cloud  
+- Deployment & experimentation  
 
 ---
 
-<!-- ===================== ACHIEVEMENTS ===================== -->
+## 📚 What I’m Currently Learning
+
+- Advanced **Python**
+- Backend development best practices
+- Cloud deployment workflows
+- Data structures & problem solving
+
+---
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 **Google Cloud Certified**
-- 🏅 **Oracle Certified**
+- 🎖️ **Google Cloud Certified**
+- 🥇 **Oracle Certified**
 - 📜 **NPTEL Certified**
-- 🧠 Participated in **University Hackathon**
-  - Reached **up to 3rd Round**
+- 🧠 **University Hackathon Participant**
+  - Qualified up to **3rd Round**
 
 ---
 
-<!-- ===================== CURRENT STATUS ===================== -->
+## 🚧 Current Status
 
-## 🚧 Currently
-
-- 👨‍🎓 Student at **LPU**
-- 📚 Learning **Advanced Python**
-- ☁️ Exploring **Cloud & Backend Concepts**
+- 👨‍🎓 B.Tech CSE student at LPU  
+- 📖 Actively strengthening backend & cloud skills  
+- 🔍 Open to learning-focused opportunities  
 
 ---
 
-<!-- ===================== GITHUB STATS ===================== -->
+## 🤝 Open For
+
+- Internships  
+- Entry-level software roles  
+- Collaborative learning projects  
+- Tech-driven teams & mentorship  
+
+---
 
 ## 📊 GitHub Stats
 
@@ -120,8 +138,6 @@
 
 ---
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-
 ## 🐍 Contribution Activity
 
 <p align="center">
@@ -130,17 +146,13 @@
 
 ---
 
-<!-- ===================== CTA ===================== -->
+## 📬 Let’s Build Something Meaningful
 
-## 🤝 Let’s Build Something Meaningful
-
-📩 **Email:** rajsumit1228@gmail.com  
-💼 **Open to:** Internships • Learning Opportunities • Collaboration
-
----
+📧 **Email:** rajsumit1228@gmail.com  
+💼 **Status:** Open to internships & growth opportunities  
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sumitraj28&style=flat-square&color=000000" />
 </p>
 
-<!-- ===================== END ===================== -->
+<!-- ============================ END ============================ -->
